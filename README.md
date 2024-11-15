@@ -1,6 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
 ![Web Developer Kid GIF](https://tenor.com/view/im-a-developer-craig-dennis-freecodecamp-im-in-the-it-world-im-a-from-developers-field-gif-22142689)
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 
 Hi there! I'm **Nikhil** (a.k.a. `@Nikhil-WebBuild`), a budding **Web Developer** with a love for **Django**, **Python**, and building awesome web experiences. 🚀
 
