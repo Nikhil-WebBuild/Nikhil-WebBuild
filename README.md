@@ -1,5 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 👋  
 
+![Web Developer Kid GIF](https://media.tenor.com/images/ba15a74231ef88e3b4374ab49ffb6f50/tenor.gif)
+
 Hi there! I'm Nikhil (a.k.a. `@Nikhil-WebBuild`), a budding **Web Developer** with a love for **Django**, **Python**, and building awesome web experiences. 🚀  
 
 ---
