@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile! 👋  
 
-<!--
-**Nikhil-WebBuild/Nikhil-WebBuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Nikhil (a.k.a. `@Nikhil-WebBuild`), a budding **Web Developer** with a love for **Django**, **Python**, and building awesome web experiences. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+
+- 🌱 I’m currently learning **Django**, **React**, and **Web Development** best practices.  
+- 🎯 My goal: To create meaningful and user-friendly web applications.  
+- 🔍 Exploring: APIs, Databases and web.  
+- ⚡ Fun fact: When I'm not coding, you can find me reading tech blogs or experimenting with new recipes! 🍳  
+
+---
+
+## 🛠️ My Tech Stack  
+
+- **Languages:** Python 🐍, HTML, CSS, JavaScript  
+- **Frameworks:** Django, Bootstrap  
+- **Tools:** Git, GitHub, VS Code  
+
+
+## 🤝 Connect with Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nikhil-suthar-196762166
+- 📧 Email: nikhilsuthar369@gmail.com
+
+---
+
+🌟 **"Dream big, start small, and keep coding!"** 💻  
+
