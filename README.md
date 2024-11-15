@@ -1,6 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
 ![Web Developer Kid GIF](https://media.tenor.com/images/ba15a74231ef88e3b4374ab49ffb6f50/tenor.gif)
+<div class="tenor-gif-embed" data-postid="22142689" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/im-a-developer-craig-dennis-freecodecamp-im-in-the-it-world-im-a-from-developers-field-gif-22142689">Im A Developer Craig Dennis Freecodecamp GIF</a>from <a href="https://tenor.com/search/im+a+developer-gifs">Im A Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Hi there! I'm **Nikhil** (a.k.a. `@Nikhil-WebBuild`), a budding **Web Developer** with a love for **Django**, **Python**, and building awesome web experiences. 🚀
 
