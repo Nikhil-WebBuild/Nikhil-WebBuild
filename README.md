@@ -1,8 +1,11 @@
+# 🌟 Welcome to My GitHub Profile! 👋
+src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2OTg1NjUsIm5iZiI6MTczMTY5ODI2NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE1VDE5MTc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwNWE1ZDNjYmI1MTBiYzIyNjIyOTRjMWQ4YTFkYTQzYzRhNDYyOTFjOTFhMGY1OWUyNjBhYzI1NzJhYjNmNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Bqbz8IdyT5u8IoZ0c9-2VNNgM12p6m3HC_GRvob1i7E" alt="Web Developer Kid GIF" width="400"/>
+
+<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="400"/>
+
 # 👋 Hi, I'm Nikhil Suthar
 
 ## 🚀 Python Backend Developer | Django REST API Engineer
-
-<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="400"/>
 
 I'm a Python Backend Developer with 1.5+ years of hands-on experience building scalable backend systems, REST APIs, and production-ready web applications using Django and Django REST Framework (DRF).
 
